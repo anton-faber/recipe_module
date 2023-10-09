@@ -1,0 +1,13 @@
+item,Ing,Qty,unit,value,category
+kozhukatta,rice powder,1,kg,10,groccery
+kozhukatta,coconut,0.2,ltr,20,groccery
+kozhukatta,jaggery,0.2,kg,10,production
+kozhukatta,peanut,0.3,kg,25,production
+kozhukatta,cardomen,0.1,kg,12,production
+kozhukatta,sugar,50,kg,40,kitchen
+elada,rice powder,1,kg,10,groccery
+elada,coconut,0.2,ltr,20,groccery
+elada,jaggery,0.2,kg,10,production
+elada,cardomen,0.02,kg,12,production
+elada,aval,0.05,kg,25,kitchen
+elada,sugar,0.05,kg,40,kitchen
